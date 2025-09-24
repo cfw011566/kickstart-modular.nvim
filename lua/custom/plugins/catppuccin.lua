@@ -1,6 +1,3 @@
-if false then
-  return {}
-end
 return {
   'catppuccin/nvim',
   name = 'catppuccin',

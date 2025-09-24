@@ -1,4 +1,6 @@
--- lazy.nvim
+if false then
+  return {}
+end
 return {
   'folke/noice.nvim',
   event = 'VeryLazy',
